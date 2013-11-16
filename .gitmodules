@@ -1,0 +1,3 @@
+[submodule "pyqqweibo"]
+	path = pyqqweibo
+	url = git@github.com:xuechong87/pyqqweibo.git
